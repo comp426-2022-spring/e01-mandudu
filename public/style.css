@@ -13,7 +13,7 @@ body {
   /* 9. Add 15px padding */
   padding: 15px;
   /* 10. Make the background color of the container Carolina Blue using the hex code defined here: https://en.wikipedia.org/wiki/Carolina_blue*/
-  background-color: #4B9CD3;
+  background-color: #62C6F2;
 
 }
 
@@ -43,16 +43,16 @@ hr {
   /* 14. Override default hr style with a 30-pixel bottom margin */
   margin-bottom: 30px;
   /* 15. Add a 2-pixel solid azure border (look up the hex code). */
-  border: 2px solid #008AD8;
+  border: 2px solid #0080FF;
   
 }
 
 /* 16. Set a style for the submit button with "registerbtn" class */
 .registerbtn {
   /* 17. Set the background color to navy using the hex color */
-  background-color:#202A44;
+  background-color:#000080;
   /* 18. Set the text color to white using the hex color */  
-  color: #fff;
+  color: #ffffff;
   padding: 16px 20px;
   margin: 8px 0;
   /* 19. Set it to have no border */
@@ -68,7 +68,7 @@ hr {
 
 a {
   /* 20. Make link text color navy blue (look up the hex code) */
-  color: #202A44;
+  color: #000080;
   /* 21. Set the text-decoration to none for links */
   text-decoration: none;
 }
